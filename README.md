@@ -163,7 +163,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - **Yovan Kovil Nayagam J**
 - **Adithey P Suraj**
-- **Kushi Kapil**
+- **Khushi Kapil**
 - **Kalaparan C A M**
 
 ---

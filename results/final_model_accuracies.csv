@@ -1,0 +1,4 @@
+Model,Tuned Accuracy
+Decision Tree,0.9537037037037037
+Support Vector Machine,0.9421296296296297
+K-Nearest Neighbors,0.9282407407407407

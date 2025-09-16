@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+        Calm       0.93      0.95      0.94       336
+      Stress       0.82      0.74      0.78        96
+
+    accuracy                           0.91       432
+   macro avg       0.87      0.85      0.86       432
+weighted avg       0.90      0.91      0.90       432

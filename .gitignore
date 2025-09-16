@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE specific
+.vscode/
+.idea/
+
+# Data files (often too large for Git)
+data/
